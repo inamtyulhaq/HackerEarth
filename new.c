@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-  //pf paper not good!
+  //solution trying
   return 0;
 }
