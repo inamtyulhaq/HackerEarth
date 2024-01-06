@@ -9,7 +9,6 @@ test cases to be passed, I won't have to write "Enter any number, Your factorial
 I simply scanned the number, applied for loop and printed it factorial.*/
 
 // Solution:
-
 #include <stdio.h>
 
 int main(){
